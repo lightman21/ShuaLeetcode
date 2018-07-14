@@ -1,4 +1,4 @@
-package org.leetcode;
+package org.leetcode.tree;
 
 import algorithm.tree.TreeNode;
 
